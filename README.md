@@ -5,4 +5,4 @@ New commands:
 - git fetch
 - git merge
 - git pull (shortcut for fetch and merge)
-- something to change
+- something did changed 
