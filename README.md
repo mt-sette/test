@@ -1,7 +1,7 @@
 # test
 Another test
 
-Did I try new changes. 
-- First this one
-- and then another
-- one more for pit sake.
+New commands:
+- git fetch
+- git merge
+- git pull (shortcut for fetch and merge)
