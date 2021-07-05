@@ -6,3 +6,5 @@ New commands:
 - git merge
 - git pull (shortcut for fetch and merge)
 - something did changed 
+
+
