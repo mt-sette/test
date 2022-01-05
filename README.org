@@ -1,7 +1,7 @@
-# test
+* test
 Another test
 
-New commands:
+** New commands:
 - git fetch
 - git merge
 - git pull (shortcut for fetch and merge)
