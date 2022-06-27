@@ -6,5 +6,4 @@ Another test
 - git merge
 - git pull (shortcut for fetch and merge)
 - something did changed 
-
-
+- New line from remote
