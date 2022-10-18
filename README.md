@@ -9,4 +9,4 @@ Another test
 -   git pull (shortcut for fetch and merge)
 -   something did changed
 
-This is a [[wikilink]]
+This is a [wikilink](wikilink)
