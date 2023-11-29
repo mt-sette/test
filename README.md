@@ -10,3 +10,10 @@ Another test
 -   something did changed
 
 This is a [wikilink](wikilink)
+
+## Git commit Squash
+
+-   git rebase -i HEAD~3
+    -  pick 1st commit
+    -  squash 2nd commit
+    -  squash 3rd commit
